@@ -2,7 +2,7 @@
 - 👀 I’m interested in Marketing Analytics
 - 🌱 I’m currently learning SAS/Python/R/SQL
 - 💞️ I’m looking to collaborate on SAS/Python/R/SQL
-- 📫 ziyuliu_zilla@outlook.com
+- 📫 ziyu.liu@marylandsmith.umd.edu
 
 <!---
 ziyuliuzilla/ziyuliuzilla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
