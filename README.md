@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ziyu Liu
 - 👀 I’m interested in Marketing Analytics
-- 🌱 I’m currently learning SAS/Python/R/SQL
-- 💞️ I’m looking to collaborate on SAS/Python/R/SQL
+- 🌱 I’m currently learning Python/R/SQL
+- 💞️ https://www.linkedin.com/in/ziyu-liu-39877918a/
 - 📫 ziyu.liu@marylandsmith.umd.edu
 
 <!---
