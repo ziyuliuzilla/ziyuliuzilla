@@ -2,7 +2,7 @@
 - 👀 I’m interested in Marketing Analytics
 - 🌱 I’m currently learning Python/R/SQL
 - 💞️ https://www.linkedin.com/in/ziyu-liu-39877918a/
-- 📫 ziyu.liu@marylandsmith.umd.edu
+- 📫 liuziyu_zilla@outlook.com
 
 <!---
 ziyuliuzilla/ziyuliuzilla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
